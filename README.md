@@ -1,6 +1,8 @@
 # Restore-ApplicationCache.db on USB Storage 6.72 (Ported By Mugiwara)
 https://ciss84.github.io/Restore-Cache/index.html
 
+# inclu : ApplicationCache  Region -al -ar -en -es -fr -us host 4.3 By Mugiwara
+
 # CREDIT 
 # stooged for 5.05 
 https://github.com/stooged/Cache-Install
