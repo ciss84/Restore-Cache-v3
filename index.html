@@ -1,0 +1,42 @@
+<html >
+<head>
+<title>Auto Restore ApplicationCache.db Usb 6.72</title>
+<meta charset="utf-8"/>
+<style>
+.button {
+  background-color: #003263;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+  height:100%;
+  display:inline-table;
+}
+
+.button:focus,
+.button:hover {
+  background-color: #007bff;
+  color: White;
+}
+</style></head>
+<body>
+<script>
+  window.applicationCache.onnoupdate=function(){setTimeout(function(){load_JB(); }, 1500);};
+  window.applicationCache.onerror=function(){setTimeout(function(){load_JB(); }, 1500);};
+</script>
+<script src="common/functions.js"></script>
+<script>function print(){}</script>
+<script src="exploit.js"></script>
+<script src="jb.js"></script>
+<script src="payloads/loader.js"></script>
+<script src="payloads/cache.js"></script>
+<h1 id="progress" style="margin-top:30px;text-align:center;">Restore Cache ApplicationCache.db</h1><hr>
+<div>
+<table align="center" style="width:600px;margin-top:30px;">
+<tr>
+<td align="center" colspan="2"><a href="#" class="button" onclick="load_payload('cache'); return false" style="width:28%">Auto Restore ApplicationCache.db Usb</a>
+</td>
+</tr>
+</table></div>
+</body>
+</html>
