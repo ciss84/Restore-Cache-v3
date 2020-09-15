@@ -3,6 +3,8 @@ https://ciss84.github.io/Restore-Cache/index.html
 
 # inclu : ApplicationCache  Region -al -ar -en -es -fr -us -pb host 4.3 By Mugiwara in user guide 
 
+# NOTE: RENAME FILE TO ApplicationCache.db and copi file to usb 
+
 # CREDIT 
 # stooged for 5.05 
 https://github.com/stooged/Cache-Install
