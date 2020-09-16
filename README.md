@@ -1,7 +1,7 @@
 # Restore-ApplicationCache.db on USB Storage 6.72 (Ported By Mugiwara)
 https://ciss84.github.io/Restore-Cache/index.html
 
-# inclu : ApplicationCache  Region -al -ar -en -es -fr -us -pb host 4.3 By Mugiwara in user guide 
+# inclu : ApplicationCache  Region -al -ar -en -es -fr -us -pb host 5.2 By Mugiwara in user guide 
 
 # NOTE: paste ApplicationCache.db file to usb 
 
