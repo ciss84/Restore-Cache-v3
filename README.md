@@ -2,7 +2,7 @@
 
 # inclu : ApplicationCache  Region -al -ar -en -es -fr -us -pb host 5.2 By Mugiwara in user guide 
 
-# NOTE: paste ApplicationCache.db file to usb and go on ps4 browser on this https://ciss84.github.io/Restore-Cache/index.html
+# NOTE: paste ApplicationCache.db file to the root on usb and go on ps4 browser on this https://ciss84.github.io/Restore-Cache/index.html
 
 # CREDIT 
 # stooged for 5.05 
