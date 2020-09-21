@@ -3,12 +3,12 @@
 # inclu : ApplicationCache Region all in one file host 5.3 By Mugiwara in user guide 
 
 # NOTE: 
-0 - put the file on the USB in exfat
-1 - browser, do the cleaning, put the USB on ps4
-2 - access
-https://ciss84.github.io/Restore-Cache/index.html
-3 - wait, success messages
-turn off internet, user guide, wait, you can remove the USB
+# 0 - put the file on the USB in exfat
+# 1 - browser, do the cleaning, put the USB on ps4
+# 2 - access
+# https://ciss84.github.io/Restore-Cache/index.html
+# 3 - wait, success messages
+# 4 - turn off internet, user guide, wait, you can remove the USB
 
 # CREDIT 
 # stooged for 5.05 
