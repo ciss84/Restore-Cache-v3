@@ -1,6 +1,6 @@
 # Restore-ApplicationCache.db on USB Storage 6.72 (Ported By Mugiwara)
 
-# inclu : ApplicationCache  Region all in one file host 5.2 By Mugiwara in user guide 
+# inclu : ApplicationCache Region all in one file host 5.3 By Mugiwara in user guide 
 
 # NOTE: paste ApplicationCache.db file to the root on usb and go on ps4 browser on this https://ciss84.github.io/Restore-Cache/index.html
 https://www.youtube.com/watch?v=WqXzGHuz7Rk&ab_channel=Son84Goku
