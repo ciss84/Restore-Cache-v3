@@ -13,9 +13,9 @@ void writeCacheDB()
     close(fid);
 	free(fbuf);
 	sceKernelSleep(3);
-	systemMessage("Cache install Complete\n\nBookmark:\nhttps://ciss84.github.io/ps4mugi/index.html");
+	systemMessage("Cache install Complete\n\nBookmark:\nhttp://ciss84.github.io/ps4mugi/index.html");
 	sceKernelSleep(1);
-	openBrowser("https://ciss84.github.io/ps4mugi/index.html");
+	openBrowser("http://ciss84.github.io/ps4mugi/index.html");
 	}
 	else
 	{
