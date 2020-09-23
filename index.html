@@ -21,6 +21,12 @@
 </style>
 </head>
 <body>
+<script>
+if(document.cookie.indexOf('kex=0') >= 0)
+    document.location.href = '.';
+else
+    document.cookie = 'kex=0';
+</script>
 <script>function print(){}</script>
 <script src="exploit.js"></script>
 <script src="payloads/loader.js"></script>
