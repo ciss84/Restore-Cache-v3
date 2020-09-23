@@ -8,14 +8,14 @@ void writeCacheDB()
     unsigned char* fbuf = base64_decode(ApcStr, sizeof(ApcStr), &len);
 	if (len != 0)
 	{
-    int fid = open("/user/system/webkit/webbrowser/appcache/ApplicationCache.db", O_WRONLY | O_CREAT | O_TRUNC, 0777);
+    int fid = open("/user/system/webkit/webbrowser/appcache", O_WRONLY | O_CREAT | O_TRUNC, 0777);
     write(fid, fbuf, len);
     close(fid);
 	free(fbuf);
 	sceKernelSleep(3);
-	systemMessage("Cache install Complete\n\nBookmark:\nhttps://github.com/ciss84/Restore-Cache/ApplicationCache.db");
+	systemMessage("Cache install Complete\n\nBookmark:\nhttps://ciss84.github.io/ps4mugi/index.html");
 	sceKernelSleep(1);
-	openBrowser("https://github.com/ciss84/Restore-Cache/ApplicationCache.db");
+	openBrowser("https://ciss84.github.io/ps4mugi/index.html");
 	}
 	else
 	{
