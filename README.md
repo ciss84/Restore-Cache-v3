@@ -6,7 +6,7 @@
 # 0 - put the file on the USB in exfat
 # 1 - browser, do the cleaning, put the USB on ps4
 # 2 - access
-# https://ciss84.github.io/Restore-Cache-v2/index.html
+# https://ciss84.github.io/Restore-Cache-v3/index.html
 # 3 - wait, success messages
 # 4 - turn off internet, user guide, wait, you can remove the USB
 
